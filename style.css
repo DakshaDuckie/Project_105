@@ -1,0 +1,17 @@
+body{
+    color: white;
+    background: rgb(17, 17, 186);
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    width: 80%;
+    font-size: 22px;
+}
+#camera{
+    border: 2px dashed white;
+    width: 350px;
+    height: 300px;
+}
+#result_of_objects, #result_of_accuracy{
+    color: rgb(0, 157, 255);
+}
